@@ -1043,7 +1043,17 @@
         "aggregate/ast/f7cdff5cfc614f34025d1fc238642be029dca1f3.nq.gz"
       ],
       "lsp": "aggregate/lsp/f7cdff5cfc614f34025d1fc238642be029dca1f3.nq.gz",
-      "repolex": "aggregate/repolex/f7cdff5cfc614f34025d1fc238642be029dca1f3.nq.gz"
+      "repolex": "aggregate/repolex/f7cdff5cfc614f34025d1fc238642be029dca1f3.nq.gz",
+      "dep": "dep/f7cdff5cfc614f34025d1fc238642be029dca1f3.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        }
+      ]
     },
     {
       "commit": "533cf7c209a0dba15b4ec784e8789d443754e64e",
