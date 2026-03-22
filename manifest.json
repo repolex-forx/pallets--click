@@ -2611,6 +2611,28 @@
         "blob/378eac25d311703f3f2cd456d8036da525cd0366.nq.gz",
         "blob/677d72affdcd3d26d915011aa988e7fc9497dbb7.nq.gz",
         "blob/3e4f6c980851be9f71d80797c19a51ce16d34a4f.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/934813e4d421071a1b3db3973c02fe2721359a6e.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/934813e4d421071a1b3db3973c02fe2721359a6e.nq.gz",
+      "repolex": "aggregate/repolex/934813e4d421071a1b3db3973c02fe2721359a6e.nq.gz",
+      "dep": "dep/934813e4d421071a1b3db3973c02fe2721359a6e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "colorama",
+          "packageVersion": "0.4.6rc1",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+        },
+        {
+          "packageName": "importlib-metadata",
+          "packageVersion": "9.0.0",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
+        }
       ]
     }
   ],
