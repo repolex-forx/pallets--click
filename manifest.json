@@ -1048,10 +1048,14 @@
       "dependencies": [
         {
           "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
+          "ecosystem": "PYPI",
+          "version": "0.4.6",
           "githubOrg": "tartley",
           "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+          "githubCommit": "3de9f013df4b470069d03d250224062e8cf15c49",
+          "githubTag": "0.4.6",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:pyproject.toml"
         }
       ]
     },
