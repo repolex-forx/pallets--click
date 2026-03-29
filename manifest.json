@@ -2621,17 +2621,25 @@
       "dependencies": [
         {
           "packageName": "colorama",
-          "packageVersion": "0.4.6rc1",
+          "ecosystem": "PYPI",
+          "version": "0.4.6",
           "githubOrg": "tartley",
           "githubRepo": "colorama",
-          "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+          "githubCommit": "3de9f013df4b470069d03d250224062e8cf15c49",
+          "githubTag": "0.4.6",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "importlib-metadata",
-          "packageVersion": "9.0.0",
+          "ecosystem": "PYPI",
+          "version": "9.0.0",
           "githubOrg": "python",
           "githubRepo": "importlib_metadata",
-          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe"
+          "githubCommit": "a9f883fef337c667a81a987bc0cbc0dbb43b2bfe",
+          "githubTag": "v9.0.0",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "build_file:pyproject.toml"
         }
       ]
     }
